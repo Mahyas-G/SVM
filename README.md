@@ -86,10 +86,10 @@ pip install numpy pandas matplotlib seaborn scikit-learn
    - Perform 5-fold cross-validation on the final model
 
 
-![](assets/Figure1.png)
-![](assets/Figure2.png)
-![](assets/Figure3.png)
-![](assets/Figure4.png)
+![](assets/Figure_1.png)
+![](assets/Figure_2.png)
+![](assets/Figure_3.png)
+![](assets/Figure_4.png)
 
 ## Key Outputs
 
